@@ -10,3 +10,6 @@ Le journal de bord est une application web dont le but est d'aider les maraîche
 
 https://github.com/Pir42/journaldebord
 
+Pokimac est une application console qui simplifie le concept des jeux pokémons, avec une carte, des ennemis et des combats. Ce projet est une application directe de toutes les connaissances en C++ acquises au premier semestre d'IMAC1.
+
+https://github.com/FlavieEnrico/pokimac
